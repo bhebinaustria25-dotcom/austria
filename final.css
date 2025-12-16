@@ -21,7 +21,7 @@ body {
 }
 
 h1 {
-    color: rgba(173, 141, 52);
+    color:  linear-gradient(rgb(19, 18, 18),rgb(180, 177, 177));
     text-align: center;
 }
 label{
@@ -71,4 +71,5 @@ h2{
     color: white;
 
 }
+
 
